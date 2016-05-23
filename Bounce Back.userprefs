@@ -1,0 +1,18 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj" RefactoringSettings.EnableRefactorings="True">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\UIManager.cs">
+    <Files>
+      <File FileName="Assets\Camera\OrthographicCamera.cs" Line="13" Column="75" />
+      <File FileName="Assets\Scripts\Entity-Component System\Processors\EmergencyBounceMobile2DProcessor.cs" Line="40" Column="43" />
+      <File FileName="Assets\Camera\ChaseCam.cs" Line="7" Column="22" />
+      <File FileName="Assets\Scripts\Entity-Component System\Processors\Mobile2DProcessor.cs" Line="16" Column="42" />
+      <File FileName="Assets\Scripts\Entity-Component System\Components\Mobile2D.cs" Line="13" Column="41" />
+      <File FileName="Assets\UI\HUD\UIMeter.cs" Line="16" Column="3" />
+      <File FileName="Assets\UIManager.cs" Line="24" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
